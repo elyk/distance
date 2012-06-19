@@ -1,0 +1,1 @@
+Enter to location of 4 different places. traveling from point a to c and b to d. This will use google's api to find the lattitude and longitude, then calculate the distance between the points in miles based on the haversine forumula
